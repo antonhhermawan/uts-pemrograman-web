@@ -1,1 +1,29 @@
+1
+Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara
+harfiah/istilah)
+JAWABAN:
+Dalam pengembangan aplikasi, "framework" adalah kerangka kerja atau struktur dasar yang sudah dibuat sebelumnya dan dapat digunakan untuk membantu membangun suatu aplikasi. Bayangkan jika Anda ingin membangun sebuah rumah. Sebaliknya dari memulai dari awal dan membuat semua detailnya, Anda dapat menggunakan kerangka atau rangka kerja yang sudah ada, seperti rencana umum atau struktur pondasi.
+
+Dengan menggunakan framework dalam pengembangan aplikasi, para pengembang tidak perlu memulai dari nol setiap kali membuat aplikasi baru. Sebaliknya, mereka dapat memanfaatkan struktur yang sudah ada untuk mempercepat proses pengembangan. Framework biasanya menyediakan alat, aturan, dan pola kerja yang dapat digunakan pengembang untuk membangun aplikasi dengan lebih efisien.
+
+Contoh framework dalam pengembangan web adalah Laravel untuk PHP, Django untuk Python, atau Ruby on Rails untuk Ruby. Framework ini menyediakan aturan-aturan dan alat-alat yang dapat membantu pengembang dalam membuat aplikasi web tanpa perlu memikirkan setiap detail teknis dari awal.
+
+2
+1. Sebutkan tema proyek yang sedang digarap!
+JAWABAN:
+Penjadwalan Lab
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan
+jobdesk dari masing-masing anggota!
+Anton Haerul Hermawan (Data analyys dan laporan)
+Abiyyu Aji (Database)
+Rizky Ferdi Nugraha (Program)
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan
+client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan
+bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Setelah melakukan wawancara dengan klien, teridentifikasi bahwa salah satu permasalahannya adalah proses penjadwalan masih dilakukan secara manual. Ini mengakibatkan sejumlah masalah, seperti kesalahan dalam penjadwalan, waktu yang terbuang, dan sulitnya melacak perubahan jadwal.
+
+Hipotesa solusi yang diusulkan untuk permasalahan ini adalah menggunakan perangkat lunak penjadwalan otomatis. Dengan menggunakan alat ini, proses penjadwalan dapat menjadi lebih efisien dan akurat. Sistem otomatis dapat mengidentifikasi waktu yang paling efisien untuk setiap kegiatan, mengurangi risiko kesalahan manusia, dan memberikan fleksibilitas untuk melakukan perubahan dengan cepat. Selain itu, solusi ini dapat menyederhanakan tugas penjadwalan, membebaskan waktu petugas untuk fokus pada tugas-tugas lain yang memerlukan keterampilan manusia.
+
+
 
